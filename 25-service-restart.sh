@@ -1,6 +1,6 @@
 #!/bin/bash
 
-service_name="nodejs"
+service_name="backend.service"
 
 sudo systemctl restart "$service_name"
 
