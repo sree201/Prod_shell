@@ -1,6 +1,6 @@
 #!/bin/bash
 
-folder_path="/home/ec2-user/shell-expense/ /etc/systemd/system/"
+folder_path="/path/to/folder"
 
 du -sh "$folder_path"
 
